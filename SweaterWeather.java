@@ -2,7 +2,7 @@ public class SweaterWeather {
 	public static main (String [] args) {
 		System.out.println("Sweater Weather by the Neighbourhood");
 		
-    System.out.println("And all I am is a man");
+    ///////////////////////////////System.out.println("And all I am is a man");
 		System.out.println("I want the world in my hands");
 		System.out.println("I hate the beach");
 		System.out.println("But I stand in California with my toes in the sand");
