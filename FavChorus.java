@@ -9,7 +9,7 @@ public class FavChorus {
 	System.out.println("And now I cry for all that is beautiful");
 	System.out.println(":')");
 		
-		
+	System.out.println("~ET);	
 
 	}
 
